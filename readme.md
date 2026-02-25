@@ -1,3 +1,23 @@
+<h1 align="center">Hi 👋, I'm Haneeeeneey</h1>
+<h3 align="center">💻 Full Stack Developer | 🤖 AI Builder | 🎮 Game Dev Explorer</h3>
+
+<p align="center">
+  Building smart AI systems, powerful Discord bots, and modern web apps.<br>
+  Passionate about clean UI, scalable backend systems, and creative tech experiments.
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🔭 Currently working on AI-based projects & chatbots  
+- 🌱 Learning advanced backend architecture & system design  
+- 🤖 Love building intelligent assistants  
+- 🎮 Exploring game development with Unity & Godot  
+- 🌍 From Kerala, India  
+- ⚡ Fun fact: I turn coffee into code  
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/haneeeeneeey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haneeeeneeey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haneeeeneeey@gmail.com) 
@@ -14,8 +34,4 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Haneeeeneey&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 
