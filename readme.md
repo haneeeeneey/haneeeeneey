@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Haneeeeneey&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Game%20Dev&descSize=18&descAlignY=55" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm Haneeeeneey</h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 AI Builder | 🎮 Game Dev Explorer</h3>
 
